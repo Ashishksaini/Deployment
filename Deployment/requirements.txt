@@ -1,0 +1,10 @@
+scikit-learn
+scikit-image
+unzip
+joblib
+pandas
+matplotlib
+natsort
+streamlit
+uvicorn
+fastapi 
